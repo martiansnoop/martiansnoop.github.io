@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Today I created challah"
+title:  "Today I Created Challah"
 date:   2016-11-20 16:51:00 -0800
 categories: baking
 ---
@@ -11,6 +11,8 @@ I chose [this recipe][challah-recipe] from King Arthur Flour because their recip
 
 Rolling out the dough for the final shaping was a challenge. The dough didn't want to stretch, and every time I let go it would recompress. I ended up fighting with it for a while and then letting it sit while I googled if there was a better way -- turns out that you can let the dough sit for a few minutes and it chills out and lets you stretch it way better.  
 
+![Challah dough, post braid success]({{ siteUrl }}/assets/2016-11-20/challah-dough.jpg)
+
 The four-stranded braid looked challenging at first but after staring at the pictures [here][challah-blog] I figured out the pattern. A few notes about that:
 
 * Pick one of the outermost strands, it does not matter but you will alternate. I'm calling this the "active strand".
@@ -20,6 +22,8 @@ The four-stranded braid looked challenging at first but after staring at the pic
 Then, take the other outermost strand and do the same thing. (It's easier with pictures, but I'm lazy.) 
 
 I've heard of five and even six braided challah, perhaps I'll make them one day. 
+
+![Challah loaf, baked]({{ siteUrl }}/assets/2016-11-20/challah-final.jpg)
 
 [challah-recipe]: http://www.kingarthurflour.com/recipes/four-strand-braided-challah-recipe
 [challah-blog]: http://blog.kingarthurflour.com/2009/01/05/challa-lujah/
