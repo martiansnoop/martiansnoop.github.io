@@ -12,4 +12,5 @@ fi
 
 directory=$1
 aws --profile upload s3 sync $directory s3://ewenberg-blog-images/$directory
+aws --profile upload s3 sync s3://ewenberg-blog-images/$directory $directory
 
