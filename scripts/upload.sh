@@ -11,6 +11,6 @@ if [ $# -ne 1 ]; then
 fi
 
 directory=$1
-aws --profile upload s3 sync $directory s3://ewenberg-blog-images/$directory
-aws --profile upload s3 sync s3://ewenberg-blog-images/$directory $directory
+aws --profile upload s3 sync --exclude .DS_Store $directory s3://ewenberg-blog-images/$directory
+aws --profile upload s3 sync --exclude .DS_Store s3://ewenberg-blog-images/$directory $directory
 
