@@ -34,3 +34,4 @@ exclude:
   - Gemfile.lock
   - scripts
   - s3meta
+  - _images
