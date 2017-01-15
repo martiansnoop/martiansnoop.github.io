@@ -5,11 +5,11 @@ date:   2017-01-02 14:43:00 -0800
 categories: bread
 ---
 
-I've heard that bread is difficult. People have told me that they have had trouble getting bread to rise, and that I'm going to fail a lot in attempting to create it. This hasn't been my experience so far so I wanted to reflect a bit on my experience learning how to create bread. 
+I've heard that bread is difficult. People have told me that they have had trouble getting bread to rise, and that I'm going to fail a lot in attempting to create it. This hasn't been my experience so far so I wanted to reflect a bit on learning how to create bread. 
 
-The first bread I created by myself was a no-knead recipe. There are like a million of these, I picked a basic one that just used flour, water, salt, and yeast. Four is about the number of ingredients I can remember at any given time so I found the simple bread formula was a good fit. Most no-knead recipes tell you to bake the bread in a dutch oven, which I didn't have at the time so I googled "no knead bread in a pan" and watched a Canadian dude on YouTube tell me how to do it. 
+The first bread I created by myself was from a no-knead recipe. There are like a million of these. I picked a basic one that just used flour, water, salt, and yeast. Four is about the number of ingredients I can remember at any given time so I found the simple bread formula was a good fit. Most no-knead recipes tell you to bake the bread in a dutch oven, which I didn't have at the time so I googled "no knead bread in a pan" and watched a Canadian dude on YouTube tell me how to do it. 
 
-Since then I've created a variety of breads, like [King Arthur Flour's Hearth Bread][hearth_bread], challah, sourdough, [this pumpkin yeast bread recipe][pumpkin_bread], a [fast-rising English muffin toasting bread][english_muffin_bread], and crumpets. My main resources have been [King Arthur Flour][king_arthur_flour], and a book called The Bread Baker's Apprentice by Peter Reinhart. I recommend both, but King Arthur Flour is more newcomer-friendly; Bread Baker's Apprentice is the kind of book where most of the recipes take two or three days to complete, and the recipes expect you to have read the preceding 100 pages of theory. It's great if you want to learn the ways of breadcraft, but I don't recommend starting out on that path.  
+Since then I've created a handful of different breads, like [King Arthur Flour's Hearth Bread][hearth_bread], challah, sourdough, [this pumpkin yeast bread recipe][pumpkin_bread], a [fast-rising English muffin toasting bread][english_muffin_bread], and crumpets. My main resources have been [King Arthur Flour][king_arthur_flour], and a book called The Bread Baker's Apprentice by Peter Reinhart. I recommend both, but King Arthur Flour is more newcomer-friendly; Bread Baker's Apprentice is the kind of book where most of the recipes take two or three days to complete, and the recipes expect you to have read the preceding 100 pages of theory. He also calls recipes "formulas", which I have trouble doing because it feels like I'm being pretentious. It's great if you want to learn the ways of breadcraft, but I don't recommend starting out on that path.  
 
 I like the idea that I'm somehow a bread genius and this is why my experiments have generally been successful, but I know that I'm new to the hobby and I have a lot still to learn. I think my bread adventure has potentially gone more smoothly than others' due to two factors.  
 
@@ -19,7 +19,7 @@ Things I did differently than others may have:
 
 * Next, I bought an instant-read thermometer. How do you know the bread is done? Well, you can estimate by looking at how brown the crust is, or try to gauge whether or not the loaf sounds sufficiently hollow when you rap on the bottom. You could try to scry into the bread, or commune with the bread spirits. Or you can stick a thermometer into the bread and check that it's the temperature that the recipe says it should be. 
 
-If the recipe doesn't list an internal temperature it's a crappy recipe, find a different one. (I've found that plain flour-water-yeast-salt breads should be about 205 F, and breads with sugar, milk, eggs, or other extra stuff should be about 190 F. This is approximate, don't quote this, I have done only haphazard science to confirm this fact.)
+My initial approach when the recipe didn't give me an internal temperature was to look for a different recipe and maybe also feel a little superior. I think a truly great baker can even work with a recipe that leaves out details, however, so I looked for a good rule of thumb and found this one: for simple flour-water-yeast-salt breads the temperature should be around 205° F, and for other breads that have milk, eggs, more than a tablespoon of sugar, etc it should be closer to 185° F. This is all +/- 5° and I think there's more data out there. 
 
 * Bonus item: I also bought a Danish whisk. I did not need one of these, but it looked like a wizard's tool and I wanted to be a bread wizard.
 
@@ -31,7 +31,7 @@ Things I did not need to buy because I already had them:
   * I have three of varying sizes, could make do with 2 or even 1. 
 * loaf pan 
 * measuring spoons
-  * my scale is not precise enough to measure 1 gram of yeast, and a lot of recipes list small things like yeast and salt in volume measurements still
+  * my scale is not precise enough to measure 1 gram of yeast so I use 1/4 tsp instead, and a lot of recipes list small things like yeast and salt in volume measurements still
 * oven
   * my oven is tiny. 
 
@@ -55,4 +55,3 @@ Things I acquired later because I wanted them:
 [hearth_bread]: http://www.kingarthurflour.com/recipes/hearth-bread-recipe
 [pumpkin_bread]: http://www.kingarthurflour.com/recipes/pumpkin-yeast-bread-recipe
 [english_muffin_bread]: http://www.kingarthurflour.com/recipes/english-muffin-toasting-bread-recipe
-
